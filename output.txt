@@ -1,0 +1,8 @@
+Milk
+gal
+2
+95
+Egg
+doz
+3
+84
